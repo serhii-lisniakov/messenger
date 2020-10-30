@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/messenger/static/css/main.10357ddf.chunk.css",
+    "main.js": "/messenger/static/js/main.49ea39b1.chunk.js",
+    "main.js.map": "/messenger/static/js/main.49ea39b1.chunk.js.map",
+    "runtime-main.js": "/messenger/static/js/runtime-main.09533563.js",
+    "runtime-main.js.map": "/messenger/static/js/runtime-main.09533563.js.map",
+    "static/js/2.5751c894.chunk.js": "/messenger/static/js/2.5751c894.chunk.js",
+    "static/js/2.5751c894.chunk.js.map": "/messenger/static/js/2.5751c894.chunk.js.map",
+    "index.html": "/messenger/index.html",
+    "static/css/main.10357ddf.chunk.css.map": "/messenger/static/css/main.10357ddf.chunk.css.map",
+    "static/js/2.5751c894.chunk.js.LICENSE.txt": "/messenger/static/js/2.5751c894.chunk.js.LICENSE.txt",
+    "static/media/avatar.efb9960b.svg": "/messenger/static/media/avatar.efb9960b.svg",
+    "static/media/chatbg.f60957f3.jpg": "/messenger/static/media/chatbg.f60957f3.jpg",
+    "static/media/facebook.2cc3d3cc.svg": "/messenger/static/media/facebook.2cc3d3cc.svg",
+    "static/media/google.de40a050.svg": "/messenger/static/media/google.de40a050.svg",
+    "static/media/offline.6bb0081c.svg": "/messenger/static/media/offline.6bb0081c.svg",
+    "static/media/online.4ce7a584.svg": "/messenger/static/media/online.4ce7a584.svg",
+    "static/media/search-active.9c9d438a.svg": "/messenger/static/media/search-active.9c9d438a.svg",
+    "static/media/search.cca5597d.svg": "/messenger/static/media/search.cca5597d.svg",
+    "static/media/send-active.9d69aa6d.svg": "/messenger/static/media/send-active.9d69aa6d.svg",
+    "static/media/send.4945534b.svg": "/messenger/static/media/send.4945534b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09533563.js",
+    "static/js/2.5751c894.chunk.js",
+    "static/css/main.10357ddf.chunk.css",
+    "static/js/main.49ea39b1.chunk.js"
+  ]
+}
